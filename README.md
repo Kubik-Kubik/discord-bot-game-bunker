@@ -1,7 +1,9 @@
 # discord-bot-game-bunker
 
 Бот для совместной игры в Discord по мотивам настольной игры Бункер - https://www.youtube.com/watch?v=kfZR0JtJaHQ&feature=emb_logo
+
 Правила настольной игры - https://www.igrotime.ru/upload/file/pravila_bunker.pdf; https://www.igrotime.ru/upload/file/vsyo_o_novom_izdanii_igry_bunker_3.pdf
+
 Данный бот развлек нашу компанию во время самоизоляции, а затем и во время групповых посиделок!
 
 Команды боту в личные сообщения:
